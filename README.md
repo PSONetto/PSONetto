@@ -3,9 +3,9 @@
 
 #### Agradeço sua visita! 
 
-Sou estudante de desenvolvimento de sistemas pela UNIP Sorocaba, amo programar e sempre busco aprender cada vez mais.  
+Sou estudante de desenvolvimento de sistemas, amo programar e sempre busco aprender cada vez mais.  
 Atualmente estou empenhado em aprender desenvolvimento web com amplo uso de JavaScript.  
-Estou trabalhando em pequenos projetos pessoas para servir com portfólio, veja:  
+Estou trabalhando em pequenos projetos pessoais, veja:  
 + [Projeto Galeria](https://github.com/PSONetto/projeto-galeria)
 + [Projeto Calculadora](https://github.com/PSONetto/projeto-calculadora-react)
 
