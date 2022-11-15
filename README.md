@@ -1,11 +1,11 @@
 
-### Hi, my name is Plínio Netto :wave:  
+# Hi, my name is Plínio Netto :wave:  
 
-#### Thank you for your visit!  
+## Thank you for your visit!  
 
 I am a system/web developer, I love programming and I am always looking to improve my skills and knowledge.
 
-##### Knowledges and Skills
+### Knowledges and Skills
 + ReactJS
 + NodeJS
 + NextJS
