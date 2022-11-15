@@ -1,11 +1,25 @@
 
-### Olá, meu nome é Plínio Netto :wave:  
+### Hi, my name is Plínio Netto :wave:  
 
-#### Agradeço sua visita!  
+#### Thank you for your visit!  
 
-Sou estudante de desenvolvimento de sistemas, amo programar e sempre busco aprender cada vez mais.  
-Atualmente estou empenhado em aprender desenvolvimento web com amplo uso de JavaScript.  
-Estou trabalhando em pequenos projetos pessoais, veja:  
+I am a system/web developer, I love programming and I am always looking to improve my skills and knowledge.
+
+##### Knowledges and Skills
++ ReactJS
++ NodeJS
++ NextJS
++ Typescript & JavaScript
++ SQL
++ ASP.NET
++ C#
++ C
+
+I am also proficient in two languages:
++ Portuguese (native)
++ English
+
+See some of my projects:
 + [Projeto Galeria](https://github.com/PSONetto/projeto-galeria)  
 + [Projeto Calculadora](https://github.com/PSONetto/projeto-calculadora-react)  
 + [Projeto Cadastro de Usuário CRUD](https://github.com/PSONetto/projeto-crud)  
