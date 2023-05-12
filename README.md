@@ -22,4 +22,4 @@ I am also proficient in two languages:
 See some of my projects:
 + [WIP]
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PSONetto&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PSONettoa&layout=compact)](https://github.com/anuraghazra/github-readme-stats&count_private=true)  
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PSONetto&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PSONetto&layout=compact)](https://github.com/anuraghazra/github-readme-stats&count_private=true)  
